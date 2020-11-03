@@ -20,6 +20,3 @@ In the recognition folder, you will find many recognition problems solved includ
 * OASIS brain segmentation
 * Classification
 etc.
-
-# Improved Unet
-Improved Unet is an improved form of the U-net network. The architecture is similar to the unet network our architecture comprises a context aggregation pathway that encodes increasingly abstract representations of the input as we progress deeper into the network, followed by a localization pathway that recombines these representations with shallower features to precisely localize the structures of interest. We refer to the vertical depth (the depth in the U shape) as level, with higher levels being lower spatial resolution, but higher dimensional feature representations.The main difference is the in improved u-net, is that gradient signals are injected deep into the network using deep super vision.
