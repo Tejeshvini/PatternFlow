@@ -22,3 +22,4 @@ In the recognition folder, you will find many recognition problems solved includ
 etc.
 
 # Improved Unet
+Improved Unet is an improved form of the U-net network. The main improvement is the residual network which is in the end part of the network
